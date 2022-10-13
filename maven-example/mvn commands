@@ -1,0 +1,14 @@
+Remove the target directories
+mvn clean 
+
+To compile java code
+mvn compile
+
+To compile Test code
+mvn test-compile
+
+To run Junit Tests
+mvn test
+
+to clean and run junit test
+mvn clean test
